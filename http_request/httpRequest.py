@@ -2,7 +2,7 @@ import requests
 
 
 def getResp():
-    r = requests.get('http://www.suning.com')
+    r = requests.get('http://www.baidu.com')
     print(r.text)
 
 
